@@ -5,6 +5,6 @@
    let div=document.getElementById("sizeInfo");
     let h=div.firstChild;
 
-    h.innerText="width: "+width+" and Height: "+height; 
+    h.innerText="Width: "+width+" and Height: "+height; 
   
   })
